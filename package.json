@@ -1,0 +1,24 @@
+{
+  "name": "fullbackendcourse",
+  "version": "1.0.0",
+  "description": "Full Backend Tutorial",
+  "homepage": "https://github.com/Codeinx/FullBackendCourse#readme",
+  "bugs": {
+    "url": "https://github.com/Codeinx/FullBackendCourse/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Codeinx/FullBackendCourse.git"
+  },
+  "license": "ISC",
+  "author": "CodeinX",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
